@@ -1,0 +1,23 @@
+.newgrid {
+	position: relative;
+	margin: 0 auto;
+	display: block;
+	left: -15px;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.wrapper{
+	height: 500px;
+}
+.container{
+	height: 500px; width: 500px;
+	border: 5px solid grey;
+	border-radius: 5px;
+	margin: 0 auto;
+}
+
+.pixel {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
